@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Github Users</string>
+    <string name="search">Search</string>
+    <string name="name">Name</string>
+
+    <string name="iv_desc_avatar">avatar</string>
+    <string name="card_item_name">NAME</string>
+    <string name="btn_submit">Submit</string>
+    <string name="favorite">Favorite</string>
+    <string name="setting">Setting</string>
+    <string name="search_hint">Masukkan Nama</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="username">Username</string>
+    <string name="repository">Repository</string>
+    <string name="number">0</string>
+    <string name="following">Following</string>
+    <string name="followers">Followers</string>
+    <string name="Location">location</string>
+    <string name="Company">company</string>
+
+    <string name="tab_text_1">Followers</string>
+    <string name="tab_text_2">Following</string>
+    <string name="theme">Theme</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="splashscreen">splashscreen</string>
+
+    <string name="searchIsEmpty">Search Is Empty</string>
+    <string name="data_is_empty">Data Is Empty</string>
+    <string name="avatarurl">avatarUrl</string>
+</resources>
