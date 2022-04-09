@@ -184,6 +184,7 @@
         android:backgroundTint="@color/yellow_700"
         android:src="@drawable/ic_baseline_favorite_border_24"
         app:layout_anchor="@id/viewPager"
-        app:layout_anchorGravity="bottom|end" />
+        app:layout_anchorGravity="bottom|end"
+        app:tint="@null" />
 
 </androidx.coordinatorlayout.widget.CoordinatorLayout>

@@ -17,7 +17,7 @@ android {
 
         testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
         buildConfigField "String", "SERVER_URL", "\"https://api.github.com\""
-        buildConfigField "String", "API_KEY", "\"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\""
+        buildConfigField "String", "API_KEY", "\"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\""
     }
     buildFeatures {
         viewBinding true
