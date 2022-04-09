@@ -28,7 +28,8 @@
                     android:layout_width="128dp"
                     android:layout_height="128dp"
                     android:layout_gravity="start"
-                    tools:src="@tools:sample/avatars" />
+                    tools:src="@tools:sample/avatars"
+                    android:contentDescription="imageprofile" />
 
                 <TextView
                     android:id="@+id/tv_name"
